@@ -1,0 +1,17 @@
+create a repository "practical" on your remote server
+clone the practical repository in your local machine directory D
+create 2 text file in side the working copy in your machine
+Name it as T1.txt and T2.txt
+make sure the following text commant at those text file give commit msges 
+and commit those file
+push these files to your remote server
+look the history of changes
+creat a branch "1st branch"
+craet a text file inside the 1st branch 
+name it as T3
+make sure the basic commands under the 1st branch 
+create a branch as a 2nd brach 
+name it as T4
+make sure the following commands
+merge the master branch and 1st branch 
+merge the master branch and 2nd branch
